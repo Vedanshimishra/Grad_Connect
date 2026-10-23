@@ -24,6 +24,3 @@ npm install
 npm run dev
 ```
 
-## Deployment
-
-See `render.yaml` for the service topology (Node web service for the backend, static site for the frontend).
